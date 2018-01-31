@@ -1,0 +1,60 @@
+    1  ls -lrt
+    2  pwd
+    3  cd firstrepo/
+    4  git help log
+    5  git log 
+    6  cd ..
+    7  cd gitprject/
+    8  git log
+    9  cd -
+   10  cd firstrepo/
+   11  ls -lrt
+   12  cd starter-web/
+   13  ls -lrt
+   14  git log
+   15  git log abbrev-commit
+   16  git log abbrev_commit
+   17  git log abbrev -commit
+   18  git log abbrev-commit
+   19  git log --oneline
+   20  git log
+   21  git log --oneline
+   22  git log --oneline --graph
+   23  git log 7ad576b ... a798235
+   24  git log 7ad576b...a798235
+   25  git log --since="3 days ago"
+   26  git log -- humans.txt
+   27  git log -- hipster.txt
+   28  git log --follow -- level1/level2/level2
+   29  git show ddc6079
+   30  git hist
+   31  pwd
+   32  ls -lrt
+   33  ls -a
+   34  cd .git
+   35  ls -lrt
+   36  pwd
+   37  cd ..
+   38  touch ~/.gitconfig
+   39  vi ~/.gitconfig 
+   40  git config --global alias.hist "log --all --graph --decorate --oneline"
+   41  vi ~/.gitconfig 
+   42  git hist
+   43  ls a
+   44  ls -a
+   45  cat .gitignore 
+   46  touch test.log
+   47  vi .gitignore 
+   48  git status
+   49  vi .gitignore 
+   50  git status
+   51  vi .gitignore 
+   52  git status
+   53  vi .gitignore
+   54  history
+   55  git hist
+   56  history
+   57  touch tt1
+   58  hostory > tt1
+   59  hostory >> tt1
+   60  history > tt1
